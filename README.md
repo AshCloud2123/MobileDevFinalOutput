@@ -11,10 +11,10 @@
 - **Intuitive UI**: Simple and elegant interface for effortless navigation.
 
 ## Tech Stack 🛠️
-- **Frontend**: [Your chosen framework or language]
-- **Backend**: [API or database system]
-- **Authentication**: [Login mechanism used, e.g., Firebase, OAuth]
-- **Storage**: [Database used, e.g., SQLite, Firestore]
+- **Frontend**: TypeScript
+- **Backend**: Javascript
+- **Authentication**: Firebase
+- **Storage**: Firebase
 
 ## How to Set Up 🚀
 1. **Clone the repository**:
