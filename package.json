@@ -10,13 +10,33 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/metro-runtime": "^5.0.4",
+    "@firebase/app": "^0.13.0",
+    "@firebase/auth": "^1.10.6",
+    "@firebase/component": "^0.6.17",
+    "@firebase/database": "^1.0.19",
+    "@firebase/firestore": "^4.7.16",
+    "@firebase/functions": "^0.12.8",
+    "@firebase/logger": "^0.4.4",
+    "@firebase/messaging": "^0.12.21",
+    "@firebase/storage": "^0.13.12",
+    "@firebase/util": "^1.12.0",
+    "@react-navigation/native": "^7.1.9",
+    "@react-navigation/native-stack": "^7.3.13",
     "expo": "~53.0.9",
     "expo-status-bar": "~2.2.3",
+    "firebase": "^10.14.1",
     "react": "19.0.0",
-    "react-native": "0.79.2"
+    "react-dom": "19.0.0",
+    "react-native": "0.79.2",
+    "react-native-safe-area-context": "5.4.0",
+    "react-native-screens": "~4.10.0",
+    "react-native-web": "^0.20.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "@types/react": "~19.0.10",
+    "typescript": "~5.8.3"
   },
   "private": true
 }
